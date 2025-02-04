@@ -2,9 +2,9 @@ import express from 'express'
 
 const app=express()  // first file
 
-app.get('/' ,(req ,res) =>{
-    res.send('server is ready')
-});
+// app.get('/' ,(req ,res) =>{
+//     res.send('server is ready')
+// });
 
 // get list of 5 jokes
 
