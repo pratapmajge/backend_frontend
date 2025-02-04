@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "pratap",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
